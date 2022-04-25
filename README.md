@@ -9,6 +9,6 @@ One of the Ultrasonic Distance sensors is used automatically open lid using a se
 used to constantly measure the level of garbage in the bin and automatically detects if it is about to fill up and notified the owner through
 the buzzer. 
 
-### Simulation Using TINKERCAD
+### Simulation Using Tinkercad
 <a href="https://www.tinkercad.com/things/fbtLd4iP3UA" target="blank">View the Simulation On Tinkercad</a>
 
